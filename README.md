@@ -1,9 +1,0 @@
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <script src="script.js"></script>
-  </head>
-<body>
-  <h1>assignment4</h1>
-</body>
-</html>
